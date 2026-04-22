@@ -21,5 +21,6 @@ A role-based authentication system built using Flask.
 ## How to Run
 
 1. Install dependencies
-2. Run: python3 app.py
-3. Open: http://127.0.0.1:5000
+2. Run: (i)  cd login_ui
+        (ii) python3 app.py
+4. Open: http://127.0.0.1:5000
